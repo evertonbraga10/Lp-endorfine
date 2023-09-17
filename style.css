@@ -125,14 +125,20 @@ header .navegar li a{
 
 .boxImg .img1{
     transform: rotate(-15deg);
+    height: 180px;
+    width: 180px;
 }
 
 .boxImg .img2{
     transform: rotate(5deg);
+    height: 300px;
+    width: 300px;
 }
 
 .boxImg .img3{
     transform: rotate(15deg);
+    height: 180px;
+    width: 180px;
 }
 
 .boxImg .img4{
