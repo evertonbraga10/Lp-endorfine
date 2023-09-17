@@ -193,3 +193,16 @@ header .navegar li a{
     transform: scale(0.5);
     filter: invert(1);
 }
+
+footer{
+    background: #121212;
+    color: #fff;
+    height: 30px;
+}
+
+.copy{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
